@@ -1,1 +1,1 @@
-Useful bash scripts and tests
+Useful scripts and tests
